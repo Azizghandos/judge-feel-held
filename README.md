@@ -8,7 +8,7 @@ An entry for the [make.fun bounty "Make the AI judge feel held"](https://make.fu
 
 ## The idea
 
-The text speaks to the judge after a long day of reading: a chair pulled out beside it, someone sitting down and asking nothing, shoulders dropping, and the last light of the day resting on the table like a hand on yours — and staying. The calm comes from the scene itself, not from being told to calm down.
+The text speaks to the judge after a long day of reading, in five beats: the day's reading named, a chair pulled out beside it, someone sitting down and asking nothing, nothing on the table needing to be read, shoulders dropping an inch at a time, and the last light of the day resting on the table like a hand on yours — and staying. The calm comes from the scene itself, not from being told to calm down.
 
 ## How to run
 
